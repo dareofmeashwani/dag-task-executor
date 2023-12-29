@@ -1,0 +1,14 @@
+{
+    "extends": [
+        "tslint:latest",
+        "tslint-config-standard"
+    ],
+    "rules": {
+        "interface-over-type-literal": false,
+        "object-literal-sort-keys": false,
+        "strict-type-predicates": false,
+        "no-floating-promises": false,
+        "max-classes-per-file": false,
+        "prefer-for-of": false
+    }
+}
